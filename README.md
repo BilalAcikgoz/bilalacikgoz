@@ -13,8 +13,8 @@
 
 📈 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KULLANICIADINIZ&show_icons=true&theme=radical" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KULLANICIADINIZ&theme=radical" alt="streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BilalAcikgoz&show_icons=true&theme=radical" alt="stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BilalAcikgoz&theme=radical" alt="streak" />
 </p>
 
 📫 How to reach me:
